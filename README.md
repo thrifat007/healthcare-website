@@ -1,7 +1,7 @@
-# Alt-Medic
+# Alt-Medical
 This website is an online health platfrom. 
 
-## website link
+## Website link
 
 Visit the website by clicking this link: [Alt-Medic](https://alt-medical.web.app/)
 
